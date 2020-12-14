@@ -27,7 +27,7 @@ namespace project
             char ch3 = stk1.Pop();
             if (ch1.Equals(ch2) && ch1.Equals(ch3))
             {
-                Console.WriteLine("Khela shesh");
+                
                 return 1;
             }
                       
